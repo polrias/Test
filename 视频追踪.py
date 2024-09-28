@@ -3,7 +3,6 @@ import cv2 as cv
 
 #第一次修改
 #第二次修改
-#第三次修改
 
 #获取视频
 cap=cv.VideoCapture("3月10日《不灭》.mp4")
