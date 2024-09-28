@@ -1,6 +1,8 @@
 import cv2 as cv
 import numpy as np
 
+#添加注释
+
 cap=cv.VideoCapture("3月10日《不灭》.mp4")
 
 #while(cap.isOpened()):
